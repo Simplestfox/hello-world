@@ -1,3 +1,3 @@
 # hello-world
-hello github! 
+Hello github! 
 I am a new developer to the github world!
